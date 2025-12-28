@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "gymshop-cf414",
+    "staging": "tech4student-107a7"
+  },
+  "targets": {},
+  "etags": {}
+}
