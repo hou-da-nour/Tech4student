@@ -63,5 +63,5 @@ Le site est entièrement responsive et optimisé pour :
 
 ---
 
-## 🧩 Structure du projet
+
 
