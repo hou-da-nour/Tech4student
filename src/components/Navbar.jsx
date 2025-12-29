@@ -41,7 +41,7 @@ export default function Navbar() {
     if (!query.trim()) return []
 
     const allProducts = [
-      { id: 1, name: "Pc portable", category: "Ordinateurs portables", image: "/images/pc-portable/pc-hp.jpg" },
+      { id: 1, name: "Pc portable", category: "pc_portable", image: "/images/pc-portable/pc-hp.jpg" },
       { id: 2, name: "Calculatrices", category: "calculatrices", image: "/images/calculatrices/calculatrice4.jpg" },
       { id: 3, name: "Affaires Scolaires", category: "affaires_scolaires", image: "/images/affaires-scolaires/graveuse.jpg" },
       { id: 4, name: "Planners & Agendas", category: "planners", image: "/images/planners/planner1.jpg" },
