@@ -53,7 +53,7 @@ const AdminOrders = ({ orders, onRefresh }) => {
         </head>
         <body>
           <div class="header">
-            <h1>Gym Shop</h1>
+            <h1>Tech4student Shop</h1>
             <h2>Facture de Commande</h2>
           </div>
           <p><strong>Numéro de commande:</strong> ${order.orderNumber}</p>
