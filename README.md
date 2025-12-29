@@ -1,7 +1,7 @@
-#  Tech4Student Shop – E-commerce Scientifique & Tech
+#  Tech4Student  – E-commerce Scientifique & Tech
 
 ## 📌 Description
-**SciStudent Shop** est une plateforme e-commerce moderne dédiée à la vente de **matériel scientifique et technologique pour étudiants**.  
+**Tech4Student** est une plateforme e-commerce moderne dédiée à la vente de **matériel scientifique et technologique pour étudiants**.  
 Le projet a été réalisé dans le cadre d’un **challenge de développement web**, avec pour objectif de créer une boutique en ligne fonctionnelle, responsive et professionnelle.
 
 ---
@@ -191,8 +191,8 @@ Gestion de l’état global de l’application.
 
 ---
 
-### 📁 src/assets
-Ressources statiques du projet (images, icônes, logos).
+### 📁 src/public
+Ressources statiques du projet (images, logo).
 
 ---
 
