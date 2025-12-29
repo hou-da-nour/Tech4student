@@ -1,4 +1,4 @@
-# 🧪 SciStudent Shop – E-commerce Scientifique & Tech
+#  Tech4Student Shop – E-commerce Scientifique & Tech
 
 ## 📌 Description
 **SciStudent Shop** est une plateforme e-commerce moderne dédiée à la vente de **matériel scientifique et technologique pour étudiants**.  
