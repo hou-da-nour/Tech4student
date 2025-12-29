@@ -268,8 +268,8 @@ export const products = [
     id: "18",
     name: "Casque sans fil BLEUTOOTH",
     description: "casque audio confrtable avec son clair .",
-    price: 4500,
-    originalPrice:3500,
+    price: 3500,
+    originalPrice:4500,
     images: [
      "/images/accessoires-technique/casque.jpg",
      "/images/accessoires-technique/casque-noir.jpg",
